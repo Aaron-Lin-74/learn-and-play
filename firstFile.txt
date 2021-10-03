@@ -4,5 +4,7 @@ For the experiment branch, I add another line.
 Now the experiment branch addes a new line while the master is also being modified. 
 Add a new line in the master
 
+I clone the repository from the web interface repository of github to my local computer.
+
 Author: Aaron
 Version: 0.1.0
