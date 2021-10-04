@@ -5,6 +5,7 @@ Now the experiment branch addes a new line while the master is also being modifi
 Add a new line in the master
 
 I clone the repository from the web interface repository of github to my local computer.
+I add a new line on via github, to play the pull command.
 
 Author: Aaron
 Version: 0.1.0
